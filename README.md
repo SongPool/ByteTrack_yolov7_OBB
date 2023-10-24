@@ -20,7 +20,8 @@ YoloV7-Tiny-OBB | https://github.com/Egrt/yolov7-tiny-obb
 ### 所需环境
 torch==1.10.1
 torchvision==0.11.2
-为了使用amp混合精度，推荐使用torch1.7.1以上的版本。
+lap==0.4.0
+lap容易有和numpy有版本问题，建议先装
 ```python
 # roate_nms 拓展安装
 cd utils/nms_rotated
