@@ -142,7 +142,7 @@ img/street.jpg
 4. 在predict.py里面进行设置可以进行fps测试和video视频检测。  
 
 ## bytetrack实现目标跟踪
-修改好yolo.py的模型权重后，运行demo_track.py即可（添加自己的检测视频路径即可）
+修改好yolo.py的模型权重后，运行demo_track.py（添加自己的检测视频路径即可）
 
 ## Reference
 ### https://github.com/tungdop2/ByteTrack_yolov5
